@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/bannerimage_1.png)
 
 <h1 align="center">Hi 👋, I'm Zararah Malik</h1>
 <h3 align="center">A Data Freelancer at Fiverr and LinkedIn.</h3>
