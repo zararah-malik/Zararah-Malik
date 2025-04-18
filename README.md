@@ -1,13 +1,28 @@
-![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/bannerimage_1.png)
+![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/Helping%20Businesses%20and%20Startups%20To%20Grow%20with%20Data.gif)
+<h1 align="left">Hi 👋, I'm Zararah Malik</h1>
+<h3 align="left">I am a Data Freelancer. I Help Businesses like SMEs to gain valueable insights from their Data.</h3>
+<section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
+  <h2>About Me</h2>
+  <p>
+    Hello and welcome to my GitHub!
+  </p>
+  <p>
+    My name is Zararah Malik. I'm a self-taught data analyst who enjoys working with numbers, solving problems, and turning raw data into something meaningful. I believe that good data can tell a story—and I love helping others see that story clearly.
+  </p>
+  <p>
+    I’ve been learning tools like Excel, Power BI, SQL, and Python to clean, explore, and visualize data. I enjoy building dashboards that are not only useful but also easy to understand. My goal is to create work that helps people make smart and confident decisions.
+  </p>
+  <p>
+    Whether it’s through a well-structured spreadsheet or a clean visual report, I take pride in my attention to detail and my curiosity to keep learning. I’m currently exploring more advanced techniques and real-world case studies to grow my skills and experience.
+  </p>
+  <p>
+    If you find something interesting in my work or if you’d like to collaborate, feel free to reach out. I’m always open to new ideas, projects, and meaningful conversations.
+  </p>
+</section>
 
-<h1 align="center">Hi 👋, I'm Zararah Malik</h1>
-<h3 align="center">A Data Freelancer at Fiverr and LinkedIn.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zararah-malik&label=Profile%20views&color=0e75b6&style=flat" alt="zararah-malik" /> </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+  <img src="https://github.com/zararah-malik/Zararah-Malik/blob/main/gif_1.gif" height="100%" width="100%"/>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zararah-malik" alt="zararah-malik" /></a> </p>
@@ -19,19 +34,6 @@
 
 ---
 
-## 🚀 About Me  
-I am a **Google-certified Data Analyst** with expertise in **data processing, visualization, and automation**. I specialize in:  
-
-✔ **Excel & SQL** (MySQL, MS SQL Server)  
-✔ **R & Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-✔ **Tableau & Power BI** (Interactive Dashboards & Reporting)  
-✔ **Data Cleaning, Transformation & Analysis**  
-
-I work on projects that involve **data-driven decision-making, automation, and business intelligence**. My goal is to create **insightful, efficient, and visually compelling reports** that help businesses optimize their performance.  
-
-💼 **Open to freelance opportunities & collaborations.** Let’s connect!  
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
