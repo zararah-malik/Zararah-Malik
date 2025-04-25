@@ -3,22 +3,41 @@
 <h3 align="left">I am a Data Freelancer. I Help Businesses like SMEs to gain valueable insights from their Data.</h3>
 <section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
   <h2>About Me</h2>
-  <p>
-    Hello and welcome to my GitHub!
-  </p>
-  <p>
-    My name is Zararah Malik. I'm a self-taught data analyst who enjoys working with numbers, solving problems, and turning raw data into something meaningful. I believe that good data can tell a story—and I love helping others see that story clearly.
-  </p>
-  <p>
-    I’ve been learning tools like Excel, Power BI, SQL, and Python to clean, explore, and visualize data. I enjoy building dashboards that are not only useful but also easy to understand. My goal is to create work that helps people make smart and confident decisions.
-  </p>
-  <p>
-    Whether it’s through a well-structured spreadsheet or a clean visual report, I take pride in my attention to detail and my curiosity to keep learning. I’m currently exploring more advanced techniques and real-world case studies to grow my skills and experience.
-  </p>
-  <p>
-    If you find something interesting in my work or if you’d like to collaborate, feel free to reach out. I’m always open to new ideas, projects, and meaningful conversations.
-  </p>
+  <p><strong>Freelance Data Analyst | SQL, Python, MS Excel, MS PowerBI, Tableau | Data Cleaning, Dashboards, Statistical Analysis</strong></p>
+
+  <p>Hello and welcome to my GitHub! My name is Zararah Malik, and I'm a Google Certified Data Analyst with a strong passion for data storytelling. I believe data has the power to drive smarter business decisions when it’s clean, structured, and well-presented.</p>
+
+  <p>I help businesses, startups, and professionals make sense of their data through thoughtful analysis, clear visualizations, and actionable insights. Whether it's a messy spreadsheet or a large dataset sitting in SQL, I enjoy turning complex information into meaningful stories.</p>
+
+  <h3>What I Do</h3>
+  <p>I offer practical, result-driven data services tailored to help businesses streamline operations, uncover trends, and make data-informed decisions. My core services include:</p>
+
+  <p>→ Data Cleaning & Preparation</p>
+  <p>→ Dashboard & Report Development using MS Excel, Tableau and MS Power BI</p>
+  <p>→ Data Exploration & Insight</p>
+  <p>→ SQL Querying</p>
+  <p>→ Statistical Analysis</p>
+  <p>→ Automation & Optimization</p>
+  <p>→ Business Reporting tailored to KPIs and operational goals</p>
+
+  <h3>Tools I Use</h3>
+  <p>→ MS Excel</p>
+  <p>→ MS Power</p>
+  <p>→ SQL</p>
+  <p>→ Tableau</p>
+  <p>→ Python</p>
+  <p>→ R (Programming Language)</p>
+  <p>→ DAX</p>
+  
+
+  <h3>Always Evolving</h3>
+  <p>I’m constantly working on real-world projects and case studies to sharpen my skills in statistical techniques, data storytelling, and business intelligence. I value traditional practices in data analysis while embracing modern tools that enhance efficiency and accuracy.</p>
+
+  <h3>Let’s Work Together</h3>
+  <p>If you need a data analyst who is reliable, detail-focused, and easy to communicate with—I’m here to help. I approach every project with care, curiosity, and a commitment to high-quality results.</p>
+  <p>Feel free to explore my work, and don’t hesitate to reach out if you’d like to collaborate on a project, need help with a dashboard, or simply want to chat about your data challenges.</p>
 </section>
+
 
 
 <div align="center">
