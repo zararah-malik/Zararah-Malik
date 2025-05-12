@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/Banner%20image.gif)
+![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/Banner%20image_final.gif)
 <h1 align="left">Hi 👋, I'm Zararah Malik</h1>
 <h3 align="left">I am a Data Freelancer. I Help Businesses like SMEs to gain valueable insights from their Data.</h3>
 <section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
