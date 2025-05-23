@@ -1,42 +1,32 @@
 ![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/Banner%20image_final.gif)
-<h1 align="left">Hi 👋, I'm Zararah Malik</h1>
-<h3 align="left">I am a Data Freelancer. I Help Businesses like SMEs to gain valueable insights from their Data.</h3>
-<section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
-  <h2>About Me</h2>
-  <p><strong>Freelance Data Analyst | SQL, Python, MS Excel, MS PowerBI, Tableau | Data Cleaning, Dashboards, Statistical Analysis</strong></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+</head>
+<body>
+  <p>✉️ malikabuzararah7@gmail.com</p>
 
-  <p>Hello and welcome to my GitHub! My name is Zararah Malik, and I'm a Google Certified Data Analyst with a strong passion for data storytelling. I believe data has the power to drive smarter business decisions when it’s clean, structured, and well-presented.</p>
+  <h1>Hello 👋</h1>
+  <p>I’m Zararah Malik, a freelance data analyst and Computer Science undergrad.</p>
 
-  <p>I help businesses, startups, and professionals make sense of their data through thoughtful analysis, clear visualizations, and actionable insights. Whether it's a messy spreadsheet or a large dataset sitting in SQL, I enjoy turning complex information into meaningful stories.</p>
+  <p>I help small businesses, startups, and solo founders turn messy, confusing data into clear, simple insights that support better decisions.</p>
 
-  <h3>What I Do</h3>
-  <p>I offer practical, result-driven data services tailored to help businesses streamline operations, uncover trends, and make data-informed decisions. My core services include:</p>
+  <p>Got cluttered spreadsheets?<br /><br />
+  No dashboard to track performance?<br /><br />
+  Not sure why sales dropped last month?</p>
 
-  <p>→ Data Cleaning & Preparation</p>
-  <p>→ Dashboard & Report Development using MS Excel, Tableau and MS Power BI</p>
-  <p>→ Data Exploration & Insight</p>
-  <p>→ SQL Querying</p>
-  <p>→ Statistical Analysis</p>
-  <p>→ Automation & Optimization</p>
-  <p>→ Business Reporting tailored to KPIs and operational goals</p>
+  <p>Let me help with that.</p>
 
-  <h3>Tools I Use</h3>
-  <p>→ MS Excel</p>
-  <p>→ MS Power</p>
-  <p>→ SQL</p>
-  <p>→ Tableau</p>
-  <p>→ Python</p>
-  <p>→ R (Programming Language)</p>
-  <p>→ DAX</p>
-  
+  <p>I clean and organize raw data, build dashboards, find trends, and make sure you actually understand what your data is saying.</p>
 
-  <h3>Always Evolving</h3>
-  <p>I’m constantly working on real-world projects and case studies to sharpen my skills in statistical techniques, data storytelling, and business intelligence. I value traditional practices in data analysis while embracing modern tools that enhance efficiency and accuracy.</p>
+  <p>I work with Excel, SQL, Tableau, Power BI, and Python.<br /><br />
+  I think Tableau is better than PowerBI but I can work with both 😄. Let's not fight over it.</p>
 
-  <h3>Let’s Work Together</h3>
-  <p>If you need a data analyst who is reliable, detail-focused, and easy to communicate with—I’m here to help. I approach every project with care, curiosity, and a commitment to high-quality results.</p>
-  <p>Feel free to explore my work, and don’t hesitate to reach out if you’d like to collaborate on a project, need help with a dashboard, or simply want to chat about your data challenges.</p>
-</section>
+  <p>If you're ready to turn data into decisions, let's talk.<br /><br />
+  DM me or email me I'd love to hear what you're working on.</p>
+</body>
+</html>
 
 
 
@@ -46,10 +36,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zararah-malik" alt="zararah-malik" /></a> </p>
 
-- 🔭 I’m currently working as a Freelance Data Analyst at [LinkedIn](https://www.linkedin.com/in/malikabuzararah).  
 - 👯 I’m looking to collaborate on **Freelance Projects.**  
-- 📫 How to reach me **malikabuzararah7@gmail.com**  
-- 🔗 Connect with me through **[LinkedIn](https://www.linkedin.com/in/malikabuzararah)**  
+- 📫 Reach out to me through Email: **malikabuzararah7@gmail.com**  or Connect with me through **[LinkedIn](https://www.linkedin.com/in/malikabuzararah)**  
 
 ---
 
@@ -58,12 +46,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/malikabuzararah" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/zararah-malik" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" style="filter: invert(1);"/>
-  </a>
-  <a href="https://www.kaggle.com/zararahmalik" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30" width="40"/>
   </a>
 </p>
 
