@@ -1,82 +1,74 @@
-![Banner Image](https://github.com/zararah-malik/Zararah-Malik/blob/main/Banner%20image_final.gif)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-</head>
-<body>
-  <p>✉️ malikabuzararah7@gmail.com</p>
+# Hi 👋! Zararah Malik
 
-  <h1>Hello 👋</h1>
-  <p>I’m Zararah Malik, a freelance data analyst and Computer Science undergrad.</p>
+**Data Analyst** | **Google Certified** | **Helping businesses make smarter decisions with clean, actionable data**  
 
-  <p>I help small businesses, startups, and solo founders turn messy, confusing data into clear, simple insights that support better decisions.</p>
+### 📫 Reach out to me ON!
 
-  <p>Got cluttered spreadsheets?<br /><br />
-  No dashboard to track performance?<br /><br />
-  Not sure why sales dropped last month?</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikabuzararah)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abuzararah)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Zararah_Malik) 
 
-  <p>Let me help with that.</p>
+## About Me 👨‍💻  
+I'm a data analyst passionate about transforming raw data into meaningful insights that drive growth and smarter decisions.  
 
-  <p>I clean and organize raw data, build dashboards, find trends, and make sure you actually understand what your data is saying.</p>
+With a background rooted in curiosity, analysis, and storytelling, I specialize in **Excel, SQL, Power BI, and Python** to clean, explore, and visualize data with impact.  
 
-  <p>I work with Excel, SQL, Tableau, Power BI, and Python.<br /><br />
-  I think Tableau is better than PowerBI but I can work with both 😄. Let's not fight over it.</p>
+I’ve worked on projects in sales, customer churn, and public safety — each one sharpening my problem-solving skills and love for data.  
 
-  <p>If you're ready to turn data into decisions, let's talk.<br /><br />
-  DM me or email me I'd love to hear what you're working on.</p>
-</body>
-</html>
+Whether I’m building dashboards, exploring trends, or mentoring others, my goal remains the same:  
+**Empower with insight. Solve with purpose. Deliver with clarity.**
+
+## 📚 My Data Analytics Projects
+
+### 🔹 [SQL Job Market Project](https://github.com/zararah-malik/SQL_data_analysis_project)  
+In this project, I use SQL to analyze job market trends, extracting key insights on demand, skills, and industry patterns to support data-driven career decisions.
+
+### 🔹 [Power BI Supper Store Sales Dashboard Project](https://github.com/zararah-malik/Store-Sales-Dashboard)  
+I built this Super Store Sales Dashboard in Power BI to break down sales, profits, and product trends. Cleaned the data in Power Query, then visualized it to spot what’s working and what’s not. It’s simple, clear, and built to help retail decisions feel less like a guess.
+
+### 🔹 [Bank Customer Churn Analysis (PowerBI, Python) Project](https://github.com/zararah-malik/Bank-Churn-Analysis-Python-PowerBI-)  
+In this project, I analyzed bank customer churn by cleaning and exploring data in Python, creating insightful visualizations in Power BI, and building a dashboard with actionable recommendations. I segmented customers based on age and behavior to identify trends that drive churn. The project helped me strengthen my data skills.
+
+### 🔹 [Coffee Shop Sales Analysis Excel Project](https://github.com/zararah-malik/Coffee-Shop-Sales-Analysis_MS-Excel)  
+The Coffee Shop Sales Dashboard gives a clear view of sales trends, customer preferences, and peak business hours. It tracks revenue, best-selling items, and average order value, helping you make smart decisions to manage inventory and boost profits.
+
+### 🔹 [HR (Human Resource) Tableau Project](https://github.com/zararah-malik/HR-Dashboard-Tableau)  
+I created an HR analytics dashboard to help managers track hiring trends, demographics, and salary insights. It offers both high-level summaries and detailed employee records, boosting data-driven decision-making.
+
+ 
+### 🔧 Super Powers I own
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔹EXCEL
+### 🔹SQL
+### 🔹POWERBI
+### 🔹PYTHON
+
+## ✅ My Services
+
+### 📊 Data Analysis  
+I help you make sense of your data by offering:
+- ✅ Data entry & cleaning  
+- ✅ Exploratory Data Analysis (EDA)  
+- ✅ Insightful visualizations & storytelling  
+- ✅ Report creation for smarter decision-making
+
+### 📈 Dashboard Development  
+I design clean, interactive dashboards using:
+- **Power BI**
+- **Microsoft Excel**
+- **Looker Studio**
 
 
+## 📫 Connect with Me
 
-<div align="center">
-  <img src="https://github.com/zararah-malik/Zararah-Malik/blob/main/gif_1.gif" height="100%" width="100%"/>
-</div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zararah-malik" alt="zararah-malik" /></a> </p>
-
-- 👯 I’m looking to collaborate on **Freelance Projects.**  
-- 📫 Reach out to me through Email: **malikabuzararah7@gmail.com**  or Connect with me through **[LinkedIn](https://www.linkedin.com/in/malikabuzararah)**  
-
----
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/malikabuzararah" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303263/r.svg" alt="r" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
-  </a> 
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/)
+- 📧 [Email Me](mailto:malikabuzararah7@gmail.com)
+- 🐦 [Twitter (X)](https://x.com/Zararah_Malik)
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zararah-malik&show_icons=true&locale=en" alt="zararah-malik" /></p>
