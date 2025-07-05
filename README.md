@@ -20,7 +20,7 @@ Whether I’m building dashboards, exploring trends, or mentoring others, my goa
 
 ## 📚 My Data Analytics Projects
 
-### 🔹 [SQL Job Market Project](https://github.com/zararah-malik/SQL_data_analysis_project)  
+### 🔹 [SQL Job Market Analysis Project](https://github.com/zararah-malik/SQL_data_analysis_project)  
 In this project, I use SQL to analyze job market trends, extracting key insights on demand, skills, and industry patterns to support data-driven career decisions.
 
 ### 🔹 [Power BI Supper Store Sales Dashboard Project](https://github.com/zararah-malik/Store-Sales-Dashboard)  
