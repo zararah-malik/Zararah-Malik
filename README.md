@@ -1,4 +1,4 @@
-# Hi 👋! Zararah Malik
+# Hi 👋! I am Zararah Malik
 
 **Data Analyst** | **Google Certified** | **Helping businesses make smarter decisions with clean, actionable data**  
 
